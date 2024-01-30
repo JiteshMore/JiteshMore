@@ -139,7 +139,7 @@ Email: jiteshsureshmore1@gmail.com
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/f6464f7c-f2a6-4a05-9677-ac17d89bd990" height="60" width="80" style="margin-right: 10px"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jitesh-more" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/jitesh-more-95038b25b/" target="_blank" rel="noreferrer">
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/f21bd8ce-5848-49d9-87e4-9e0c0a2cea0b" alt="JiteshMore" height="60" width="60" style="margin-right: 10px" />
   </a>
   &nbsp;&nbsp;
@@ -160,7 +160,7 @@ Email: jiteshsureshmore1@gmail.com
   <a href="mailto:jiteshsureshmore1@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/f6464f7c-f2a6-4a05-9677-ac17d89bd990" height="60" width="80" style="margin-right: 10px"/>
   </a>  
-  <a href="https://linkedin.com/in/jitesh-more" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/jitesh-more-95038b25b/" target="_blank" rel="noreferrer">
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/f21bd8ce-5848-49d9-87e4-9e0c0a2cea0b" alt="JiteshMore" height="60" width="60" style="margin-right: 10px" />
   </a>
   <a href="https://twitter.com/JiteshMore45" target="_blank" rel="noreferrer">
