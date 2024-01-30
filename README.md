@@ -55,7 +55,7 @@ Email: jiteshsureshmore1@gmail.com
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/9b853e69-a2e4-458a-bb09-49b2dc39575f" alt="tableau" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.lookerstudio.google.com" target="_blank" rel="noreferrer">
+  <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer">
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/deb173a6-131d-4d02-a587-a3c448ae8f29" alt="Looker_studio" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
@@ -101,7 +101,7 @@ Email: jiteshsureshmore1@gmail.com
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/9b853e69-a2e4-458a-bb09-49b2dc39575f" alt="tableau" width="60" height="60"/>
   </a>
-  <a href="https://www.lookerstudio.google.com" target="_blank" rel="noreferrer">
+  <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer">
     <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/deb173a6-131d-4d02-a587-a3c448ae8f29" alt="Looker_studio" width="60" height="60"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
