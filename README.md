@@ -23,7 +23,7 @@ accuracy and driving process optimization.</h3>
 Informatica tool, a powerful data integration and management tool
 
 ### <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/67ab3d8a-cbe8-4b62-bec1-bd12a0014701" width="35" height="35" /> Know about my experiences
-[Resume](https://drive.google.com/file/d/1wm93C0ijAY2PU7x6WqXJvcEJWikPdtJ1/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/16M0i0e5KkrsSDo03pjTkg_02V-TOk85S/view?usp=sharing)
 
 ### <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/6a7bf773-d7f8-4f54-b1d3-8e68629a29d6" width="35" height="35" /> How to reach me
 Email: jiteshsureshmore1@gmail.com
