@@ -1,7 +1,8 @@
 ![github1](https://github.com/JiteshMore/JiteshMore/assets/132353761/be9b51f8-169b-43c0-bc1c-f90d8566bd6b)
 
 <h1 align="center">Hi <img src="https://github.com/JiteshMore/JiteshMore/assets/132353761/2ee1f630-1b74-419b-8466-492728bc3b5f" width="50" height="50" />, I'm Jitesh More</h1>
-<h3 align="center">I am an aspiring Data Analyst with a strong passion for working with and manipulating data to uncover valuable insights. I am dedicated to providing the best possible analysis and leveraging data to drive informed decision-making.</h3>
+<h3 align="center">Detail-oriented Data Analyst with strong analytical skills and proficiency in SQL, Python, and data visualization tools. Experienced in extracting insights from complex datasets and presenting findings through clear reports and dashboards. A collaborative team player committed to maintaining data
+accuracy and driving process optimization.</h3>
 
 <br>
 
